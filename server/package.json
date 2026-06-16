@@ -8,7 +8,8 @@
     "npm": "6.13.4"
   },
   "scripts": {
-    "start": "nodemon server/server.js",
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
     "client": "npm start --prefix client"
   },
   "author": "",
