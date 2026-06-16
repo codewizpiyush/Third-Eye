@@ -8,3 +8,8 @@ server/node_modules/
 
 client/.env
 server/.env
+
+.DS_Store
+DS_Store
+DS_Store/
+.DS_Store/
